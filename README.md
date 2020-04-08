@@ -1,1 +1,1 @@
-# delete_test_repo
+I have entered this information in RStudio
